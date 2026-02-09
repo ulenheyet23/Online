@@ -1,12 +1,12 @@
 {
-  "Enabled": true,
-  "Bypass": true,
-  "PlayerLine": true,
-  "PlayerSkeleton": true,
-  "PlayerName": true,
-  "PlayerDistance": true,
-  "PlayerHealth": true,
-  "Vehicle": true,
-  "LootBox": true,
-  "Watermark": true
+  "status": "ACTIVE",
+  "bypass": "true",
+  "playerline": "true",
+  "playerskeleton": "true",
+  "playername": "true",
+  "playerdistance": "true",
+  "playerhealth": "true",
+  "vehicle": "true",
+  "lootbox": "true",
+  "weaponskin": "true"
 }
